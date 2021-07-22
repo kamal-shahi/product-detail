@@ -1,0 +1,107 @@
+.prev-img{
+    width: 100%;
+    height: 'auto';
+    object-fit: contain;
+    padding: 1px 5px 0px 5px;
+}
+.details .title{
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.rating-color{
+    color: #FDBC15;
+}
+.details p{
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.p-description{
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.ratings span:not(:last-child){
+    margin-right: 8.12%;
+}
+.spec-detail p{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    font-family: Open Sans;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.rounded-5{
+    border-radius: 10px;
+}
+.button-card p{
+    font-family: Poppins !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.add-btn-wrapper{
+    height: 47px;
+    width: 87px;
+    left: 248px;
+    top: 21px;
+    border-radius: 12px;
+    padding: 14px, 16px, 14px, 16px;
+
+}
+.button-card button:focus{
+    box-shadow: none !important;
+}
+.quantity-value{
+    width: 41%;
+}
+.fs-20{
+    font-size: 20px;
+}
+.bg-dark-blue{
+    background: #20438D;
+}
+.add-cart-btn{
+    font-family: Poppins;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.rounded-top{
+    border-radius: 10px 10px 0px 0px !important;
+}
+.text-warn-badge{
+    color: #FE5220;
+}
+.z-index-max{
+    z-index: 9999 !important;
+}
+
+.border-dotted {
+    border: 1px dashed grey !important;
+}
